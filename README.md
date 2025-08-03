@@ -1,3 +1,6 @@
+~ % config --global user.name "Nandini Arora"
+~ % git config --global user.email "aroranandini777@gmail.com"
+~ % git config --list
 # Induction-program2025
 Activity report of induction program 2025
 <br>

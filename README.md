@@ -1,10 +1,7 @@
-~ % config --global user.name "Nandini Arora"
-~ % git config --global user.email "aroranandini777@gmail.com"
-~ % git config --list
 # Induction-program2025
 Activity report of induction program 2025
 <br>
-Day 1 (30 July 2025)
+# Day 1 (30 July 2025)
 <br>
 The very first day of college felt less like an entry into academics and more like a soulful initiation into a community rooted in faith, values, and excellence.
 <br>

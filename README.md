@@ -25,4 +25,18 @@ Later, the Buddy4Study team interacted with us and shared valuable information a
 We also had a motivational session by Dr. Arashdeep Singh, who spoke about the importance of food in a student's overall wellness. He explained how eating habits can affect not just our physical health, but also our mental clarity and energy levels. It was a refreshing reminder to be mindful of our lifestyle.
 <br>
 In the second half, our seniors helped us get started with GitHub. They guided us through the process of creating an account, understanding basic terminology, and shared tips on how to use it for our future projects and learning.
+<br>
+
+# Day 3 (2 August 2025)
+<br>
+Day 3 of the induction program at GNDEC was filled with energy, inspiration and meaningful learning.
+<br>
+We began the day with an exciting and interactive session by Dr. Jaswinder Singh, widely known for his "JaswinS Lab on Wheels" initiative. He made Physics and Mathematics come alive through simple yet fascinating experiments and demonstrations. His way of teaching made complex concepts feel easy and fun - it was a refreshing change from traditional classroom learning.
+<br>
+Next, Dr. Priya Darshni continued with a session on Universal Human Values. Her talk was thought-provoking and helped us reflect on the importance of clarity, purpose, and balance in life - not just as students but as human beings.
+<br>
+We were also honored to have S. Gurcharan Singh Grewal, Secretary, SGPC, as the chief guest. He addressed the students with motivating words, encouraging us to stay focused, grounded, and disciplined as we begin our academic journey.
+<br>
+Later, a reflective session was held where students discussed their English and Mathematics proficiency test results from Day 2. It helped us understand our current level and identify areas to improve, with guidance from our faculty.
+
 
